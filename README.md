@@ -19,16 +19,15 @@ Copyright (C) 2017 LinuxHelps project.
 Feedback/comment/suggestions : https://linuxhelps.net/
 Author Ivan Bachvarov a.k.a SlaSerX
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=root@null.bg&item_name=LinuxHelps%20Support&currency_code=EUR) - You can make one-time donations via PayPal. I'll probably buy a coffe. :coffee:
-Thanks! :heart:
-
-##### Runs on
-[![Debian](https://raw.githubusercontent.com/slaserx/icons/master/64x64/debian.png)](https://www.debian.org)
-[![Ubuntu](https://raw.githubusercontent.com/slaserx/icons/master/64x64/ubuntu.png)](https://www.ubuntu.com)
+Links fixed from original.
 
 
 ```sh
-git clone https://github.com/SlaSerX/stalker
+apt-get update
+
+apt-get install git
+
+git clone https://github.com/thehumangoing/stalker
 
 cd stalker/
 
