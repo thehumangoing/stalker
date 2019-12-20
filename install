@@ -136,7 +136,7 @@ else
  ;;
 
 3)
- #Install Ubuntu 16.04
+ Install Ubuntu 16.04
  echo "Install Ministra on Ubuntu 16.04"
 ./lab/ubuntu16
  ;;
