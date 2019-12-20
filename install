@@ -113,11 +113,11 @@ if [[ $EUID -ne 0 ]]; then
 else
  cmd=(dialog --separate-output --checklist "Please Select Software you want to install:" 22 76 16)
  options=(1 "Install Ministra Portal" off # any option can be set to default to "on"
- 2 "Install Stalker Portal" off
- 3 "Install Ministra on Ubuntu 16.04" off
+ #2 "Install Stalker Portal" off
+# 3 "Install Ministra on Ubuntu 16.04" off
  4 "Install Ministra on Debian 8" off
- 5 "Install Ministra 5.5.0 Ubuntu 16" off
- 6 "Install of the Storage Server" off
+# 5 "Install Ministra 5.5.0 Ubuntu 16" off
+# 6 "Install of the Storage Server" off
  7 "Exit" off)
  choices=$("${cmd[@]}" "${options[@]}" 2>&1 >/dev/tty)
  clear
