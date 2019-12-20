@@ -6,7 +6,7 @@
 [![Github Releases](https://img.shields.io/github/downloads/atom/atom/latest/total.svg)](http://github.com/SlaSerX/stalker)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=root@null.bg&item_name=LinuxHelps%20Support&currency_code=EUR)
 
-<b>Stalker WM Portal road warrior installer for Debian, Ubuntu</b>
+Stalker WM Portal road warrior installer for <b>Debian</b>
 
 This script will work on Debian, Ubuntu and probably other distros
 of the same families, although no support is offered for them. It isn't
